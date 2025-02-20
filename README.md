@@ -4,13 +4,13 @@
 <br />
 
 ### Hi 🙋‍♂️,
-👨🏽‍💻 I’m currently studying on Leetcode;
-🌱 I’m currently learning Ts and React;
-👯 I’m looking to collaborate on Leetcode 🤝;
-🤔 I’m looking to study more Front-end cutting-edge technology😭;
-💬 Ask me about anything, I am happy to help;
-📫 How to reach me: 3096567831@qq.com;
-📝Resume
+- 👨🏽‍💻 I’m currently studying on Leetcode;
+- 🌱 I’m currently learning Ts and React;
+- 👯 I’m looking to collaborate on Leetcode 🤝;
+- 🤔 I’m looking to study more Front-end cutting-edge technology😭;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: 3096567831@qq.com;
+- 📝Resume
 
 <br />
 
