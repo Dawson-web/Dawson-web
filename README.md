@@ -7,7 +7,7 @@
 
 </samp>
 
-  <img src="https://s1.aigei.com/prevfiles/a31982962db048b2ae5ae6400409b40a.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:QNzdekfyoHEAKsezT9UiFKwdsTM=" width="200"/>
+  <img src="https://s1.aigei.com/prevfiles/e9376421f6f741c095c88c03a7bb4138.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:FYxLbRF0IxOn_oHJMnz2o0UWwsw=" width="200"/>
 
 </p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
