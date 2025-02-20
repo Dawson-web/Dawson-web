@@ -2,24 +2,17 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://irisation.tech/">Dawson</a></b>.
+    <br>I'm a Front-end implementation<br>
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="[https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif](https://s1.aigei.com/prevfiles/a31982962db048b2ae5ae6400409b40a.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:QNzdekfyoHEAKsezT9UiFKwdsTM=)" width="200"/>
 
 </p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-
-
-
-
-<details align="center">
-
-</details>
 
 ### 👨🏻‍💻 Currently working on:
 
